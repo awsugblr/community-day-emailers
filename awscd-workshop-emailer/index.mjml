@@ -3,7 +3,7 @@
     <mj-attributes>
       <mj-text font-family="Ubuntu, Helvetica, Arial, sans-serif" color="#000000"></mj-text>
       <mj-class name="description"></mj-class>
-      <mj-class name="preheader" font-weight="bold" color="#000000" font-size="25px"></mj-class>
+      <mj-class name="preheader" font-weight="bold" color="#000000" font-size="25px" ></mj-class>
       <mj-class name="button" background-color="#232F3E" color="#fafafa" font-size="18px" border-radius="3px" font-family="Ubuntu, Helvetica, Arial, sans-serif"></mj-class>
       <mj-class name="register" background-color="#232F3E" color="#fafafa" font-size="20px" border-radius="30px" font-family="Ubuntu, Helvetica, Arial, sans-serif"></mj-class>
       <mj-class name="text" color="#455A64" font-size="16px" line-height="20px" border-radius="30px" font-family="Ubuntu, Helvetica, Arial, sans-serif"></mj-class>
@@ -38,33 +38,38 @@
     </mj-section>
 
     <mj-section>
-      <mj-column width="100px">
-        <mj-text font-style="italic" font-size="20px" color="#626262">
-          Date
-        </mj-text>
+      <mj-column width="75px">
+        <mj-image src=" https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/icon-2.png" />
       </mj-column>
 
       <mj-column width="500px">
-        <mj-text font-style="italic" font-size="20px" color="#626262">
+        <mj-text font-style="bold" font-size="20px" color="#626262">
           26th July, 2019
         </mj-text>
       </mj-column>
     </mj-section>
 
     <mj-section>
-      <mj-column width="100px">
-        <mj-text font-style="italic" font-size="20px" color="#626262">
-          Location
-        </mj-text>
+      <mj-column width="75px">
+                <mj-image src=" https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/icon-1.png" />
+
       </mj-column>
 
       <mj-column width="500px">
-        <mj-text font-style="italic" font-size="20px" color="#626262">
+        <mj-text font-style="bold" font-size="20px" color="#626262">
           Radisson Blu Bengaluru Outer Ring Road,
-          90-4, Sarjapur Outer Ring Rd,
-          Marathahalli, Bengaluru,
-          Karnataka 560037
         </mj-text>
+        <mj-text  font-size="20px" color="#626262">
+        90-4, Sarjapur Outer Ring Rd,
+        </mj-text>
+          <mj-text font-size="20px" color="#626262">
+          Marathahalli, Bengaluru,
+          </mj-text>
+
+          <mj-text font-size="20px" color="#626262">
+
+          Karnataka 560037
+          </mj-text>
       </mj-column>
     </mj-section>
 
@@ -101,12 +106,7 @@
         </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
-      <mj-column>
-        <mj-button href="https://communityday.awsugblr.in/#workshop" mj-class="button">More Info</mj-button>
-      </mj-column>
-    </mj-section>
-
+   
 
     <mj-section>
       <mj-column>
