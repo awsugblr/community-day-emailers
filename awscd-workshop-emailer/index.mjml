@@ -1,0 +1,191 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text font-family="Ubuntu, Helvetica, Arial, sans-serif" color="#000000"></mj-text>
+      <mj-class name="description"></mj-class>
+      <mj-class name="preheader" font-weight="bold" color="#000000" font-size="25px"></mj-class>
+      <mj-class name="button" background-color="#232F3E" color="#fafafa" font-size="18px" border-radius="3px" font-family="Ubuntu, Helvetica, Arial, sans-serif"></mj-class>
+      <mj-class name="register" background-color="#232F3E" color="#fafafa" font-size="20px" border-radius="30px" font-family="Ubuntu, Helvetica, Arial, sans-serif"></mj-class>
+      <mj-class name="text" color="#455A64" font-size="16px" line-height="20px" border-radius="30px" font-family="Ubuntu, Helvetica, Arial, sans-serif"></mj-class>
+    </mj-attributes>
+    <mj-style inline="inline">
+      a {
+        text-decoration: none !important;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body>
+
+    <!-- Company Header -->
+    <!-- <mj-section padding="0">
+      <mj-column background-color="#6B4CC2">
+        <mj-image href="https://communityday.awsugblr.in" width="140px" src="https://ci5.googleusercontent.com/proxy/wL0gT91T80uBVnaz0ow7JcuHHjIqd9p71OQNnLaGG5JgTMBWr7TKunpUVgo0JTYqNT9sx--TSlfwHtzezRgEdvDmOVaO7nnXpOtzYtX2YoRJ1bcHmjc=s0-d-e1-ft#https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/1553108936.png" />
+      </mj-column>
+    </mj-section> -->
+
+    <!-- Image Header -->
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image href="https://konfhub.com/awsdaysblr" padding="0" width="600px" src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/workshop-cover.png" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-column background-color="#232F3E">
+        <mj-text color="#ff9400" mj-class="preheader" align="center">
+          VENUE AND DATE DETAILS
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100px">
+        <mj-text font-style="italic" font-size="20px" color="#626262">
+          Date
+        </mj-text>
+      </mj-column>
+
+      <mj-column width="500px">
+        <mj-text font-style="italic" font-size="20px" color="#626262">
+          26th July, 2019
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100px">
+        <mj-text font-style="italic" font-size="20px" color="#626262">
+          Location
+        </mj-text>
+      </mj-column>
+
+      <mj-column width="500px">
+        <mj-text font-style="italic" font-size="20px" color="#626262">
+          Radisson Blu Bengaluru Outer Ring Road,
+          90-4, Sarjapur Outer Ring Rd,
+          Marathahalli, Bengaluru,
+          Karnataka 560037
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Introduction Text -->
+    <mj-section padding="0">
+      <mj-column background-color="#232F3E">
+        <mj-text color="#ff9400" mj-class="preheader" align="center">
+          WORKSHOP DETAILS
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text color="#232F3E" mj-class="preheader" align="center">
+          SERVERLESS WORKSHOP
+        </mj-text>
+
+
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image align="center" width="100px" src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/tick_work_1.png" alt="" />
+
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text mj-class="text">
+          Get hands-on experience with AWS and serverless applications in this workshop conducted by experts from AWS.
+
+          In this workshop you'll deploy a simple web application that enables users to request food from the AWSome Food website using services like AWS Lambda, Amazon API Gateway, Amazon S3, Amazon DynamoDB, AWS Step Functions and Amazon Cognito.
+
+          With the knowledge from the workshop, you can build and deploy your own serverless applications using these services for common use cases like web applications, analytics, and more.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-button href="https://communityday.awsugblr.in/#workshop" mj-class="button">More Info</mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section>
+      <mj-column>
+        <mj-text color="#232F3E" mj-class="preheader" align="center">
+          DEEP LEARNING WORKSHOP
+        </mj-text>
+
+
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="25%">
+        <mj-image align="center" width="100px" src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/tick_work_2.png" alt="" />
+
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text mj-class="text">
+          In this one-day course, you will learn cloud-based deep learning (DL) solutions on the AWS platform. You will learn how to run your models on the cloud using Amazon EC2‒based deep learning Amazon Machine Image (AMI) and Apache MXNet on AWS frameworks. In addition, you will learn how to use Amazon SageMaker and deploy your deep learning models using AWS services like AWS Lambda and Amazon Elastic Container Service (Amazon ECS)—all while designing intelligent systems on AWS.
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-button href="https://communityday.awsugblr.in/#workshop" mj-class="button">More Info</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper>
+      <mj-section>
+        <mj-column>
+          <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-button font-weight="bold" href="https://konfhub.com/awsdaysblr" mj-class="register">
+            REGISTER HERE!
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" />
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+            <mj-social-element src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/001-facebook.png" href="https://facebook.com/awsugblr/">
+            </mj-social-element>
+            <mj-social-element src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/004-twitter.png" href="https://twitter.com/awsugblr/">
+            </mj-social-element>
+
+            <mj-social-element src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/006-linkedin.png" href="https://linkedin.com/in/awsugblr/">
+            </mj-social-element>
+            <mj-social-element src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/008-meetup.png" href="https://meetup.com/awsugblr/">
+            </mj-social-element>
+
+            <mj-social-element src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/002-youtube.png" href="https://www.youtube.com/channel/UCfba8E1RmidkInYsEzMEOkg">
+            </mj-social-element>
+            <mj-social-element src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/005-telegram.png" href="https://t.me/awsugblr/">
+            </mj-social-element>
+
+
+          </mj-social>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-text align="center" color="#BDBDBD">
+            AWS Community Day Planning Team.
+            You are receiving this email because you are part of AWS User Group Bengaluru or have attended one of the meetups
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+
+
+  </mj-body>
+</mjml>
