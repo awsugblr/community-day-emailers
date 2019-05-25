@@ -28,52 +28,6 @@
       </mj-column>
     </mj-section>
 
-    <mj-section padding="0">
-      <mj-column background-color="#232F3E">
-        <mj-text color="#ff9400" mj-class="preheader" align="center">
-          CONFERENCE DATE
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <mj-section >
-      <mj-column >
-        <mj-text font-weight="bold" align="center" font-size="20px" color="#626262">
-          27th July, 2019
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <mj-section padding="0">
-      <mj-column background-color="#232F3E">
-        <mj-text color="#ff9400" mj-class="preheader" align="center">
-          CONFERENCE VENUE
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <mj-section >
-      
-      <mj-column  >
-        <mj-text font-weight="bold"  font-size="20px" color="#626262" align="center">
-          Conrad Bengaluru
-        </mj-text>
-        <mj-text font-weight="bold"  font-size="20px" color="#626262" align="center">
-        25/3, Kensington Rd, Someshwarpura,
-
-        </mj-text>
-          <mj-text font-weight="bold" font-size="20px" color="#626262" align="center">
-         Ulsoor, Bengaluru,
-
-          </mj-text>
-
-          <mj-text font-weight="bold" font-size="20px" color="#626262" align="center">
-
-          Karnataka 560008
-          </mj-text>
-      </mj-column>
-    </mj-section>
-
     <!-- Introduction Text -->
    
     <mj-section padding="0">
@@ -133,51 +87,22 @@
       </mj-column>
     </mj-section>
 
-    <mj-section>
-      <mj-column>
-        <mj-text color="#232F3E" mj-class="preheader" align="center">
+
+
+
+    <mj-section padding="0px">
+      <mj-column width="50%">
+                <mj-text color="#232F3E" font-weight="bold" font-size="20px" align="center">
           SERVERLESS WORKSHOP
         </mj-text>
-
-
-      </mj-column>
-    </mj-section>
-    <mj-section>
-      <mj-column width="25%">
-        <mj-image align="center" width="100px" src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/tick_work_1.png" alt="" />
+       <mj-image align="center" width="100px" src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/tick_work_1.png" alt="" />
 
       </mj-column>
-      <mj-column width="75%">
-        <mj-text mj-class="text">
-          Get hands-on experience with AWS and serverless applications in this workshop conducted by experts from AWS.
-
-          In this workshop you'll deploy a simple web application that enables users to request food from the AWSome Food website using services like AWS Lambda, Amazon API Gateway, Amazon S3, Amazon DynamoDB, AWS Step Functions and Amazon Cognito.
-        </mj-text>
-        <mj-text mj-class="text">
-                   With the knowledge from the workshop, you can build and deploy your own serverless applications using these services for common use cases like web applications, analytics, and more.
-        </mj-text>
-      </mj-column>
-    </mj-section>
-   
-
-    <mj-section >
-      <mj-column>
-        <mj-text color="#232F3E" mj-class="preheader" align="center">
+      <mj-column width="50%">
+                <mj-text color="#232F3E" font-weight="bold" font-size="20px" align="center">
           DEEP LEARNING WORKSHOP
         </mj-text>
-
-
-      </mj-column>
-    </mj-section>
-    <mj-section padding="0px">
-      <mj-column width="25%">
         <mj-image align="center" width="100px" src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/tick_work_2.png" alt="" />
-
-      </mj-column>
-      <mj-column width="75%">
-        <mj-text mj-class="text">
-          In this one-day course, you will learn cloud-based deep learning (DL) solutions on the AWS platform. You will learn how to run your models on the cloud using Amazon EC2‒based deep learning Amazon Machine Image (AMI) and Apache MXNet on AWS frameworks. In addition, you will learn how to use Amazon SageMaker and deploy your deep learning models using AWS services like AWS Lambda and Amazon Elastic Container Service (Amazon ECS)—all while designing intelligent systems on AWS.
-        </mj-text>
 
       </mj-column>
     </mj-section>
@@ -192,6 +117,52 @@
           <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" />
         </mj-column>
       </mj-section>
+          <mj-section padding="0">
+      <mj-column background-color="#232F3E">
+        <mj-text color="#ff9400" mj-class="preheader" align="center">
+          CONFERENCE DATE
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section >
+      <mj-column >
+        <mj-text font-weight="bold" align="center" font-size="20px" color="#626262">
+          27th July, 2019
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0">
+      <mj-column background-color="#232F3E">
+        <mj-text color="#ff9400" mj-class="preheader" align="center">
+          CONFERENCE VENUE
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section >
+      
+      <mj-column  >
+        <mj-text font-weight="bold"  font-size="20px" color="#626262" align="center">
+          Conrad Bengaluru
+        </mj-text>
+        <mj-text font-weight="bold"  font-size="20px" color="#626262" align="center">
+        25/3, Kensington Rd, Someshwarpura,
+
+        </mj-text>
+          <mj-text font-weight="bold" font-size="20px" color="#626262" align="center">
+         Ulsoor, Bengaluru,
+
+          </mj-text>
+
+          <mj-text font-weight="bold" font-size="20px" color="#626262" align="center">
+
+          Karnataka 560008
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
 
       
  <mj-section padding="0">
@@ -348,7 +319,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-wrapper>
+
 
       <mj-section>
         <mj-column>
@@ -380,7 +351,6 @@
           </mj-text>
         </mj-column>
       </mj-section>
-    </mj-wrapper>
 
 
 
