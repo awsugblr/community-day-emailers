@@ -185,7 +185,7 @@
         <mj-image href="https://getpostman.com/" src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/sponsors/postman.jpg" alt="postman" />
       </mj-column>
       <mj-column width="50%">
-        <mj-image href="https://india.epsilon.com/" src="https://communityday.awsugblr.in/images/spons/epsilon.png" alt="elastic" />
+        <mj-image href="https://india.epsilon.com/" src="https://communityday.awsugblr.in/images/spons/epsilon.jpg" alt="epsilon" />
       </mj-column>
     </mj-group>
 
@@ -242,7 +242,7 @@
     <mj-section>
     <mj-group>
       
-      <mj-column width="50%">
+            <mj-column width="50%">
         <mj-image href="https://www.womenwhocode.com/bangalore" src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/sponsors/wwc.jpg" alt="wwc" />
       </mj-column>
       <mj-column width="50%">
@@ -268,10 +268,29 @@
       <mj-column width="50%">
         <mj-image href="https://konfhub.com/" src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/sponsors/konfhub.jpg" alt="konfhub" />
       </mj-column>
+      <mj-column width="50%">
+        <mj-image href="https://www.knowledgehut.com" src="https://communityday.awsugblr.in/images/spons/knowledgehut.jpg" alt="knowledgehut" />
+      </mj-column>
+        </mj-group>
+        </mj-section>
+            <mj-section>
+      <mj-group>
+      <mj-column width="50%">
+        <mj-image href="https://www.goclouds.com" src="https://communityday.awsugblr.in/images/spons/goclouds.jpg" alt="goclouds" />
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image href="http://www.fametechnologies.in" src="https://communityday.awsugblr.in/images/spons/fame.jpg" alt="fame" />
+      </mj-column>
+              </mj-group>
+      </mj-section>
+            <mj-section>
+      <mj-group>
+       <mj-column width="50%">
+        <mj-image href="https://www.facebook.com/groups/DevCBengaluru/" src="https://communityday.awsugblr.in/images/spons/fbdcblr.jpg" alt="developer-circles" />
+      </mj-column>
       </mj-group>
         
-      </mj-section>
-    <mj-section>
+      </mj-section>    <mj-section>
       <mj-column>
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" />
       </mj-column>
