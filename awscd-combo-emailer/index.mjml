@@ -310,6 +310,18 @@
       <mj-column width="50%">
         <mj-image href="https://konfhub.com/" src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/sponsors/konfhub.jpg" alt="konfhub" />
       </mj-column>
+      <mj-column width="50%">
+        <mj-image href="https://www.knowledgehut.com" src="https://communityday.awsugblr.in/images/spons/knowledgehut.jpg" alt="knowledgehut" />
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image href="https://www.goclouds.com" src="https://communityday.awsugblr.in/images/spons/goclouds.jpg" alt="goclouds" />
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image href="http://www.fametechnologies.in" src="https://communityday.awsugblr.in/images/spons/fame.jpg" alt="fame" />
+      </mj-column>
+       <mj-column width="50%">
+        <mj-image href="https://www.facebook.com/groups/DevCBengaluru/" src="https://communityday.awsugblr.in/images/spons/fbdcblr.jpg" alt="developer-circles" />
+      </mj-column>
       </mj-group>
         
       </mj-section>
