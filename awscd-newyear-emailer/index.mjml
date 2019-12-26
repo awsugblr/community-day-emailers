@@ -1,0 +1,314 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text font-family="Ubuntu, Helvetica, Arial, sans-serif" color="#000000"></mj-text>
+      <mj-class name="description"></mj-class>
+      <mj-class name="preheader" font-weight="bold" color="#000000" font-size="25px"></mj-class>
+      <mj-class name="button" background-color="#232F3E" color="#fafafa" font-size="18px" border-radius="3px" font-family="Ubuntu, Helvetica, Arial, sans-serif"></mj-class>
+      <mj-class name="register" background-color="#232F3E" color="#fafafa" font-size="20px" border-radius="30px" font-family="Ubuntu, Helvetica, Arial, sans-serif"></mj-class>
+      <mj-accordion border="none" padding="1px" />
+      <mj-accordion-element icon-wrapped-url="http://i.imgur.com/Xvw0vjq.png" icon-unwrapped-url="http://i.imgur.com/KKHenWa.png" icon-height="24px" icon-width="24px" />
+      <mj-accordion-title font-family="Roboto, Open Sans, Helvetica, Arial, sans-serif" background-color="#fff" color="#031017" padding="15px" font-size="20px" />
+      <mj-accordion-text font-family="Open Sans, Helvetica, Arial, sans-serif" background-color="#fafafa" padding="15px" color="#505050" font-size="14px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      a {
+        text-decoration: none !important;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body>
+
+
+    <!-- Image Header -->
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image href="https://konfhub.com/awsdaysblr" padding="0" width="600px" src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/workshop-cover-rev.png" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0">
+      <mj-column background-color="#232F3E">
+        <mj-text color="#ff9400" mj-class="preheader" align="center">
+          DATE
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section >
+     
+
+
+      <mj-column >
+        <mj-text font-weight="bold" align="center" font-size="20px" color="#626262">
+          27th July, 2019
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0">
+      <mj-column background-color="#232F3E">
+        <mj-text color="#ff9400" mj-class="preheader" align="center">
+          VENUE
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section >
+      
+      <mj-column  >
+        <mj-text font-weight="bold"  font-size="20px" color="#626262" align="center">
+          Conrad Bengaluru
+        </mj-text>
+        <mj-text font-weight="bold"  font-size="20px" color="#626262" align="center">
+        25/3, Kensington Rd, Someshwarpura,
+
+        </mj-text>
+          <mj-text font-weight="bold" font-size="20px" color="#626262" align="center">
+         Ulsoor, Bengaluru,
+
+          </mj-text>
+
+          <mj-text font-weight="bold" font-size="20px" color="#626262" align="center">
+
+          Karnataka 560008
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Introduction Text -->
+   
+    <mj-section padding="0">
+      <mj-column background-color="#232F3E">
+        <mj-text color="#ff9400" mj-class="preheader" align="center">
+          OUR TRENDING TALKS
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section border-left="1px solid #dddddd" border-right="1px solid #dddddd" padding="20px" border-bottom="1px solid #dddddd">
+        <mj-column border="1px solid #dddddd">
+          <mj-text padding="20px" font-size="18px" line-height="20px">&#9733; Keynote: Embracing Full-stack Serverless. A new paradigm  <a  href="https://www.linkedin.com/in/gerard-sans/?originalSubdomain=uk" style="display:inline-block;text-decoration:none;color:#F5933B;font-size:14px;font-weight:bold;" target="_blank">
+                    - Gerard Sans, Developer Advocate, AWS
+                </a>   </mj-text>
+          <mj-divider border-width="1px" border-style="dashed" border-color="lightgrey" padding="0 20px" />
+         <mj-text padding="20px" font-size="18px" line-height="20px">&#9733; Serverless Architecture : The future of Cloud Computing  <a  href="https://www.linkedin.com/in/palanisamy/" style="display:inline-block;text-decoration:none;color:#F5933B;font-size:14px;font-weight:bold;" target="_blank">
+                    - Palanisamy Chellappan,Enterprise Architect, Brillio
+                </a>   </mj-text>
+ <mj-divider border-width="1px" border-style="dashed" border-color="lightgrey" padding="0 20px" />
+                <mj-text padding="20px" font-size="18px" line-height="20px">&#9733; Refactoring to Serverless -- Translating common application architecture patterns to serverless on AWS  <a  href="https://www.linkedin.com/in/hnprashanth/" style="display:inline-block;text-decoration:none;color:#F5933B;font-size:14px;font-weight:bold;" target="_blank">
+                    - Prashanth HN, Co-Founder, WheelsBox.com 
+                </a> and <a  href="https://www.linkedin.com/in/adithyakreddy/" style="display:inline-block;text-decoration:none;color:#F5933B;font-size:14px;font-weight:bold;" target="_blank">
+                    Aditya Reddy, Software Developer, Branch Insurance 
+                </a>   </mj-text>
+ <mj-divider border-width="1px" border-style="dashed" border-color="lightgrey" padding="0 20px" />
+                <mj-text padding="20px" font-size="18px" line-height="20px">&#9733; Complex architectures for authentication and authorization on AWS.  <a  href="https://aws.amazon.com/developer/community/heroes/boyan-dimitrov/" style="display:inline-block;text-decoration:none;color:#F5933B;font-size:14px;font-weight:bold;" target="_blank">
+                    - Boyan Dimitrov, AWS Community Hero, Germany
+                </a>   </mj-text>
+ <mj-divider border-width="1px" border-style="dashed" border-color="lightgrey" padding="0 20px" />
+                <mj-text padding="20px" font-size="18px" line-height="20px">&#9733; Boyan Dimitrov, AWS Community Hero, Germany<a  href="https://www.linkedin.com/in/divyakrishnamurthi/" style="display:inline-block;text-decoration:none;color:#F5933B;font-size:14px;font-weight:bold;" target="_blank">
+                    - Divya Krishnamurthi, Practice Manager, Akamai Technologies
+                </a>   </mj-text>
+                 <mj-divider border-width="1px" border-style="dashed" border-color="lightgrey" padding="0 20px" />
+     <mj-text padding="20px" font-size="18px" line-height="20px">&#9733; From One to Many: Slack's transition away from a single AWS account<a  href="#" style="display:inline-block;text-decoration:none;color:#F5933B;font-size:14px;font-weight:bold;" target="_blank">
+                     - Andrew Martin, Senior Cloud Engineer, Slack
+                </a>   </mj-text>
+        </mj-column>
+      </mj-section>
+
+      
+ <mj-section padding="0">
+      <mj-column background-color="#232F3E">
+        <mj-text color="#ff9400" mj-class="preheader" align="center">
+          TICKET DETAILS
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image href="https://konfhub.com/awsdaysblr" padding="0" width="600px" src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/super-early-bird.png" alt="tickets">
+      </mj-column>
+    </mj-section>
+
+    <mj-section >
+      <mj-column>
+        <mj-button font-weight="bold" href="https://konfhub.com/awsdaysblr" mj-class="register">
+          REGISTER HERE!
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding="0px">
+      <mj-column background-color="#DDDDDD">
+        <mj-text color="#555555" mj-class="preheader" align="center">
+          PLATINUM SPONSORS
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+    <mj-group>
+      
+      <mj-column width="50%" >
+        <mj-image href="https://jfrog.com/" src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/sponsors/jfrog.jpg" alt="jfrog" />
+      </mj-column>
+      <mj-column width="50%" >
+        <mj-image href="https://developer.amazon.com/alexa" src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/sponsors/alexa.jpg" alt="alexa" />
+      </mj-column>
+    </mj-group>
+    </mj-section>
+    <mj-section>
+      
+      <mj-group>
+        
+      <mj-column width="50%" >
+        <mj-image href="https://www.freshworks.com/" src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/sponsors/freshworks.jpg" alt="freshworks" />
+      </mj-column>
+      </mj-group>
+      
+    </mj-section>
+
+    <mj-section>
+      <mj-column background-color="#DDDDDD">
+        <mj-text color="#555555" mj-class="preheader" align="center">
+          GOLD SPONSORS
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+    <mj-group>
+      
+      <mj-column width="50%">
+        <mj-image href="https://elastic.co/" src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/sponsors/elastic.jpg" alt="elastic" />
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image href="https://getpostman.com/" src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/sponsors/postman.jpg" alt="postman" />
+      </mj-column>
+    </mj-group>
+
+    </mj-section>
+
+
+    <mj-section>
+      <mj-column background-color="#DDDDDD">
+        <mj-text color="#555555" mj-class="preheader" align="center">
+          SILVER SPONSORS
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-group>
+        
+      <mj-column width="50%">
+        <mj-image href="https://sumologic.com/" src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/sponsors/sumologic.jpg" alt="sumologic" />
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image href="https://jetbrains.com/" src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/sponsors/jetbrains.jpg" alt="jetbrains" />
+      </mj-column>
+      </mj-group>
+
+
+    </mj-section>
+    <mj-section>
+      <mj-group>
+      <mj-column width="50%">
+        <mj-image href="https://powerupcloud.com/" src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/sponsors/powerup.jpg" alt="powerup" />
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image href="https://tensult.com/" src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/sponsors/tensult.jpg" alt="tensult" />
+      </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section>
+    <mj-group>
+      
+      <mj-column width="50%">
+        <mj-image href="https://cloudyuga.guru/" src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/sponsors/cloudyuga.jpg" alt="cloudyuga" />
+      </mj-column>
+    </mj-group>
+      
+    </mj-section>
+
+    <mj-section>
+      <mj-column background-color="#DDDDDD">
+        <mj-text color="#555555" mj-class="preheader" align="center">
+          COMMUNITY SPONSORS
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+    <mj-group>
+      
+      <mj-column width="50%">
+        <mj-image href="https://www.womenwhocode.com/bangalore" src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/sponsors/wwc.jpg" alt="wwc" />
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image href="https://wheelsbox.com/" src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/sponsors/wheelsbox.jpg" alt="wheelsbox" />
+      </mj-column>
+    </mj-group>
+    </mj-section>
+<mj-section>
+<mj-group>
+  
+      <mj-column width="50%">
+        <mj-image href="https://www.meetup.com/indianstartupsbangalore/" src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/sponsors/indianstartups.jpg" alt="indianstartups" />
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image href="https://www.wonecreations.com/" src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/sponsors/wone.jpg" alt="wone" />
+      </mj-column>
+</mj-group>
+  
+</mj-section>
+      <mj-section>
+      <mj-group>
+        
+      <mj-column width="50%">
+        <mj-image href="https://konfhub.com/" src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/sponsors/konfhub.jpg" alt="konfhub" />
+      </mj-column>
+      </mj-group>
+        
+      </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" />
+      </mj-column>
+    </mj-section>
+
+    <mj-wrapper>
+
+      <mj-section>
+        <mj-column>
+          <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+            <mj-social-element src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/001-facebook.png" href="https://facebook.com/awsugblr/">
+            </mj-social-element>
+            <mj-social-element src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/004-twitter.png" href="https://twitter.com/awsugblr/">
+            </mj-social-element>
+
+            <mj-social-element src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/006-linkedin.png" href="https://linkedin.com/in/awsugblr/">
+            </mj-social-element>
+            <mj-social-element src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/008-meetup.png" href="https://meetup.com/awsugblr/">
+            </mj-social-element>
+
+            <mj-social-element src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/002-youtube.png" href="https://www.youtube.com/channel/UCfba8E1RmidkInYsEzMEOkg">
+            </mj-social-element>
+            <mj-social-element src="https://s3.ap-south-1.amazonaws.com/emailer-awsugblr/005-telegram.png" href="https://t.me/awsugblr/">
+            </mj-social-element>
+
+
+          </mj-social>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-text align="center" color="#BDBDBD">
+            AWS Community Day Planning Team.
+            You are receiving this email because you are part of AWS User Group Bengaluru or have attended one of the meetups
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+
+
+  </mj-body>
+</mjml>
